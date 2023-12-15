@@ -37,7 +37,7 @@
 
   }
 
-.hobby{
+.hobby {
     display: flex;
     justify-content: flex-end;
     flex-direction: column;
@@ -53,7 +53,7 @@
 
 
 
-.gedicht{
+.gedicht {
   width: 50%;
   display: flex;
   flex-direction: column;
